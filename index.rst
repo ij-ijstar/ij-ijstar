@@ -1,57 +1,55 @@
 #############
-Canon.Com/ijsetup | Canon wireless printer| setup Canon printer
+Canon.com/ijsetup - Connect Canon Printer With Your Device
 #############
+
 
 .. image:: Get-Started.png   
 	  :width: 350px    
-	  :align: center    
-	  :height: 100px    
+	  :align: center   
+	  :height: 100px  
 	  :alt: Canon.Com/ijsetup    
-	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
-
-Canon.Com/ijsetup will manual you to Install Canon printer brand new updated drivers, for Canon printer setup you could additionally visit canon.com/ijsetup. If we talk about printers the first name comes in our thoughts is Canon printer, on this internet site we will inform you a way to setup & deploy your canon printer with little information approximately computers.
-
-#############
-How to install the Canon wireless printer on windows computer?
-#############
 
 
-**Below steps will help you to setup Canon wireless printer with the help of canon.com/ijsetup official Canon printers’ driver website.**
-
-1. Install cartridges in your printer and turn it ON.
-2. Make sure you have WPS button on your WIFI router & your computer and printer connected within the same network.
-3. On your computer go to browser and open `canon.com/ijsetup<https://prnter.readthedocs.io/en/latest/>`_v, and search your printer model and download the latest and updated drivers for Canon printer.
-4. Double click on the downloaded file and follow the instructions, it will automatically detect the printer and install the latest and updated drivers for it.
-5. If it’s not installed automatically then you need to do it manually go to settings on your printer choose wireless option and within 2 minutes 
-
-press the WPS button on your WIFI router then it will connect with the network.
-6. Once your printer installed test it by giving print from the computer.
-
-#############
-How to setup Canon printer on MAC?
-#############
-
-**Visit canon.com/ijsetup mac to install Canon printer on MAC.**
-
-1. Insert cartridges and turn ON your Canon printer.
-2. Connect your canon printer via USB cable.
-3. Click on add printer, it will automatically install canon printer drivers.
-4. If it above steps does not work, you need to download printer drivers from `canon.com/ijsetup<https://prnter.readthedocs.io/en/latest/>`_ mac.
-5. Click on downloaded file to install Canon printer.
+Canon printer or scanner by visiting ij.start.canon from your web browser. Visit the webpage from an updated browser to download and install the Canon printer drivers. You will only need the Canon printer model name and the type of your operating system to finalize the setup process. Follow these steps to set up ij.start.canon printer on any Windows or Mac device.
 
 
 *************
-If you don’t have USB cable follow below steps.
+Steps to Add ij.start.canon printer to your Device
 *************
 
 
-1. Turn ON Printer.
-2. Locate the WPS button on WIFI router.
-3. Download printer drivers from canon.com/ijsetup MAC.
-4. Open downloaded file and follow steps.
-5. While following instruction it will ask to press WPS button on WIFI.
-6. Then press OK button on printer.
-7. Once done it will connect with network.
-8. Now on your MAC computer click add printer. 
-9. Locate the printer to install.
-10. Once all done make a test print to confirm.
+===========
+On Windows:
+===========
+
+
+1. Download and install the Canon printer driver setup from ij.start.canon.
+2. Then, go to the Start menu setting and navigate the Control Panel menu.
+3. Select the Printer & Device option.
+4. Click Add a Printer option to continue.
+5. Choose your Canon printer from the list.
+6. Then, tap Add and follow prompts.
+7. Finally, restart the Windows device to make changes.
+
+===========
+On Mac:
+===========
+
+
+1. Download and install the Canon printer driver setup from ij.start.canon.
+2.Launch the Apple menu on the device.
+3. After that, launch the System Preference menu.
+4. Click the Plus icon to add a new printer or scanner.
+5. Choose the Canon printer from the list.
+6. Finally, restart the Mac device to save changes.
+
+===========
+On Smartphones:
+===========
+
+
+1. Install the Canon PRINT Inkjet/SELPHY app on your smartphone.
+2. Then, launch the app and tap Allow to grant permissions.
+3. After that, select the Register Printer tab.
+4. Choose the ij.start.canon printer from the list.
+5. Finally, finalize the Canon printer setup process.
