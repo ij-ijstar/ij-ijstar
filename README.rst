@@ -8,7 +8,7 @@ Canon.com/ijsetup - Connect Canon Printer With Your Device
 	  :align: center   
 	  :height: 100px  
 	  :alt: Canon.Com/ijsetup    
-
+          :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 
 Canon printer or scanner by visiting ij.start.canon from your web browser. Visit the webpage from an updated browser to download and install the Canon printer drivers. You will only need the Canon printer model name and the type of your operating system to finalize the setup process. Follow these steps to set up ij.start.canon printer on any Windows or Mac device.
 
